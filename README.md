@@ -1,8 +1,8 @@
 # inventory-managment-system-university-project
 ## İstifadə olunan texnologiyalar:
-### .NET Framework v4.7.2\
-### Entity Framework 6(Database First)\
-### MS Sql\\
+#### .NET Framework v4.7.2
+#### Entity Framework 6(Database First)
+#### MS Sql
 Inventar idarəetmə sistemi böyük və kompleks sistemdir. Proyekt bir neçə moduldan ibraətdir. Əsasən 2 idarəetmə sistemi var. Bir normal şirkətlər özləri qeydiyyatdan keçərək istədikləri məhsulları sifariş edə bilər bir də admin tərəfindən məhsullar sifariş edilib təsdiqlənə bilər. Database olaraq MS Sql server istifadə olunub və baza ilə əlaqəni təmin etmək üçün Entity Framework.
 ## Giriş Pəncərəsi:
 ![image](https://user-images.githubusercontent.com/47367245/83322001-44ecfd00-a265-11ea-984a-2993943680eb.png)
