@@ -3,11 +3,13 @@
 #### .NET Framework v4.7.2
 #### Entity Framework 6(Database First)
 #### MS Sql
-\
-\
+
+## ER Diagram:
+![image](https://user-images.githubusercontent.com/47367245/83940807-d0cbcf80-a7f7-11ea-8b66-2ca60da7ce6c.png)\
+
 Inventar idarəetmə sistemi böyük və kompleks sistemdir. Proyekt bir neçə moduldan ibraətdir. Əsasən 2 idarəetmə sistemi var. Bir normal şirkətlər özləri qeydiyyatdan keçərək istədikləri məhsulları sifariş edə bilər bir də admin tərəfindən məhsullar sifariş edilib təsdiqlənə bilər. Database olaraq MS Sql server istifadə olunub və baza ilə əlaqəni təmin etmək üçün Entity Framework.
 ## Giriş Pəncərəsi:
-![image](https://user-images.githubusercontent.com/47367245/83322001-44ecfd00-a265-11ea-984a-2993943680eb.png)
+![image](https://user-images.githubusercontent.com/47367245/83322001-44ecfd00-a265-11ea-984a-2993943680eb.png)\
 Proqramın açılış pəncərəsində bizi giriş qarşılayır. Daxil edilən məlumatlara əsasən uyğun formlara yönədir. 2 əsas form var 1 user üçün nəzədə tutlan 2 admin üçün nəzərdə tutulan. Hər bir qeydiyyatdan keçən istifadəçinin rolu userdir.
 ## Qeydiyyat:
 ![image](https://user-images.githubusercontent.com/47367245/83322025-71a11480-a265-11ea-9a03-e9befd32ce2d.png)\
