@@ -24,20 +24,20 @@ It is possible to manage products in this window. You can add new products, chan
 ![image](https://user-images.githubusercontent.com/47367245/83322091-f3913d80-a265-11ea-9544-fe861d3ed08b.png)
 ![image](https://user-images.githubusercontent.com/47367245/83322096-fc820f00-a265-11ea-9895-24ecdba41171.png)\
 On this page, the admin can change and view some of the users' information. In the window on the right, each user can change his name, password, e-mail and profile picture.
-## Sifariş:
+## Orders:
 ![image](https://user-images.githubusercontent.com/47367245/83322117-1facbe80-a266-11ea-90d5-3412b8730e93.png)\
 Here the admin can select and order products for any company, but a normal user can only create an order for the registered company. When creating an order, money in other currencies is converted into AZN based on the daily currency.\
 ![image](https://user-images.githubusercontent.com/47367245/83322125-3c48f680-a266-11ea-8948-d3ca59b01eab.png)\
 This window is for managing orders. The background of pre-created invoice orders is green, and you cannot re-create and delete them invoice. (Error)
-## İnvoice:
+## Invoice:
 ![image](https://user-images.githubusercontent.com/47367245/83322147-5f73a600-a266-11ea-9246-b153d89c4fc6.png)\
 Such a window opens when an invoice is created from any order. You can choose any product from the right. When an invoice is created, the product table is subtracted from the total number of products sold to the number sold.\
 ![image](https://user-images.githubusercontent.com/47367245/83322159-71eddf80-a266-11ea-8eb3-ecf6c2178afa.png)\
 Here you can look at created invoices and invoice products. You can send or print the Invoice spreadsheet as an Excel file to the login user.
-## Kateqoriyalar:
+## Categories:
 ![image](https://user-images.githubusercontent.com/47367245/83322174-8631dc80-a266-11ea-85be-f977db6cc5e6.png)\
 In this window you can add and edit categories.
-## User səhifəsi:
+## User Page:
 ![image](https://user-images.githubusercontent.com/47367245/83322185-98137f80-a266-11ea-85f4-44c86fb30c80.png)\
 This page is for regular users only. Here the user can see his order number and create a new order.
 
